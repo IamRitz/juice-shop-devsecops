@@ -19,7 +19,7 @@ repository:
 # Exact framework ref: every generated `uses:` line and toolkit_ref use this value.
 framework:
   repository: IamRitz/ssd-security-framework
-  ref: 923a03381a61e69ecbf9a3913806ce108c972763
+  ref: a91c6cdc36a649f54d7225e8820f067fcb3e0a0d 
 
 # source-only | container-self-managed | container-ecr-framework-gated
 profile: source-only
